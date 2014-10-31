@@ -1,4 +1,4 @@
-# gulp-bump
+# gulp-boop
 [![Build Status](https://travis-ci.org/stevelacy/gulp-bump.png?branch=master)](https://travis-ci.org/stevelacy/gulp-bump)
 [![NPM version](https://badge.fury.io/js/gulp-bump.png)](http://badge.fury.io/js/gulp-bump)
 
@@ -12,7 +12,7 @@
 </tr>
 <tr>
 <td>Description</td>
-<td>Bump any Semver version json file
+<td>Beep, Boop, or Bop any Semver version json file
  with gulp (gulpjs.com)</td>
 </tr>
 <tr>
@@ -26,8 +26,6 @@
 </table>
 
 ## Usage
-
-If you are just requiring a bump for npm, consider using [npm version](https://npmjs.org/doc/cli/npm-version.html)
 
 #### Install
 
